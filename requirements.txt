@@ -1,0 +1,4 @@
+pandas==1.4.3
+python_dateutil==2.8.2
+requests==2.27.1
+websocket_client==0.58
